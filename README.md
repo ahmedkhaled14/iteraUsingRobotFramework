@@ -1,7 +1,6 @@
 <div align="center">
- <img  src="https://user-images.githubusercontent.com/68038931/147390936-c6228337-9787-4aab-b5d6-826bc8e4e4a3.gif" alt="test-light" width="1000" height="250" />
- </div>
-
+<img src="https://user-images.githubusercontent.com/68038931/229144371-eec425da-eedf-406d-ac0d-d337b9e29209.gif"  width="1000" height="300" />
+</div>
 
 ## ✨ *iteraUsingRobotFramework* ==> *GUI* *Test Automation Using RobotFramework* ✨
 
